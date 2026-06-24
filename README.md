@@ -1,5 +1,5 @@
 # Table of Content
-* [Academia Application](#academia-application)
+* [Academia Application](#academia-applicatio)
 
 ---
 
