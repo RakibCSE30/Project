@@ -54,7 +54,7 @@ Our project documentation is built using **MkDocs (Material Theme)** and is auto
 
 ### 🌐 Live Docs Link
 👉 [Click here to view the Live Documentation Website](https://RakibCSE30.github.io/Project/) 
-*(Note: Replace this with your actual live link once it's up!)*
+ 
 
 ### 🚀 Quick Contribution Guide for the Team:
 1. Add or edit your `.md` documentation files inside the `resources/documents/` folder.
