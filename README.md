@@ -65,7 +65,7 @@ Our project documentation is built using **MkDocs (Material Theme)** and is auto
    git commit -m "Updated documentation"
    git push origin main
 
- more detailes click [here](https://github.com/RakibCSE30/Project/wiki/*click-here-for-documentation)  
+ more detailes click [here](https://github.com/RakibCSE30/Project/wiki/Documentation)  
 
 ### Docker Setup
 1. Clone the repository:<br>
