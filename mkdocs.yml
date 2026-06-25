@@ -1,0 +1,8 @@
+site_name: Smart Question Bank Documentation
+docs_dir: resources/documents
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
