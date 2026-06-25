@@ -3,6 +3,7 @@
   - [Features](#features)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+    - [MkDocks Setup](#mkdocks-setup)
     - [Docker Setup](#docker-setup)
     - [Manual Setup (Without Docker)](#manual-setup-without-docker)
       - [1. Backend (Node.js Server)](#1-backend-nodejs-server)
@@ -43,6 +44,26 @@ To know details about SmartQuestion Bank application click [here](https://github
 ---
 
 ## Installation
+
+### MkDocks setup
+---
+
+## 📚 Project Documentation (MkDocs & GitHub Pages)
+
+Our project documentation is built using **MkDocs (Material Theme)** and is automatically hosted via **GitHub Pages**.
+
+### 🌐 Live Docs Link
+👉 [Click here to view the Live Documentation Website](https://RakibCSE30.github.io/Project/) 
+*(Note: Replace this with your actual live link once it's up!)*
+
+### 🚀 Quick Contribution Guide for the Team:
+1. Add or edit your `.md` documentation files inside the `resources/documents/` folder.
+2. If you create a new file, update the sidebar navigation in the `mkdocs.yml` file.
+3. Push your changes to the `main` branch:
+   ```bash
+   git add .
+   git commit -m "Updated documentation"
+   git push origin main
 
 ### Docker Setup
 1. Clone the repository:<br>
