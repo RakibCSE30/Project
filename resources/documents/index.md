@@ -1,11 +1,7 @@
-# Smart Question Bank Documentation
+# Project Summary
 
-স্বাগতম! এটি আমাদের প্রজেক্টের অফিশিয়াল ডকুমেন্টেশন সাইট। 
+Welcome to the official documentation site. This project is designed to solve [insert problem] for [target users].
 
- 
-* Jakir
-* Abid
-* Mahin
-* Rakib
-* Nusaiba
-* Mehadi
+## Objectives
+* Goal 1: Provide a seamless user experience.
+* Goal 2: Ensure scalable and secure architecture.
