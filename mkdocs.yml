@@ -1,8 +1,36 @@
 site_name: Smart Question Bank Documentation
-docs_dir: resources/documents
+docs_dir: 'resources/documents'
 
 theme:
   name: material
+  palette:
+    primary: indigo
+    accent: indigo
 
 nav:
-  - Home: index.md
+  - 1. Introduction & Overview:
+      - Project Summary: index.md
+      - Tech Stack: tech-stack.md
+      - Glossary & Terms: glossary.md
+  - 2. Requirement Documentation:
+      - SRS Overview: srs.md
+      - User Stories & Use Cases: user-stories.md
+  - 3. System Architecture:
+      - Architecture & ERD: architecture.md
+  - 4. Developer Guide (Onboarding):
+      - Prerequisites & Setup: local-setup.md
+      - Coding Standards: coding-standards.md
+      - Git & PR Guidelines: git-guidelines.md
+  - 5. API Documentation:
+      - API Endpoints & Payloads: api-reference.md
+  - 6. Testing & Quality Assurance:
+      - Test Suites & Coverage: testing.md
+  - 7. CI/CD & Deployment:
+      - Pipeline Overview: cicd.md
+      - Production Deploy & Rollback: deployment.md
+  - 8. Security & Compliance:
+      - Data Privacy & Secret Management: security.md
+  - 9. Maintenance & Troubleshooting:
+      - Runbook & Known Issues: troubleshooting.md
+      - Monitoring & Logs: monitoring.md
+  - 10. Changelog: changelog.md
