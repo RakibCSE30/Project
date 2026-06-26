@@ -33,4 +33,5 @@ nav:
   - 9. Maintenance & Troubleshooting:
       - Runbook & Known Issues: troubleshooting.md
       - Monitoring & Logs: monitoring.md
-  - 10. Changelog: changelog.md
+  - 10. User Manual: user-manual.md
+  - 11. Changelog: changelog.md
