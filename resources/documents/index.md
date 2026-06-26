@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 # Project Summary
 
 Welcome to the official documentation site. This project is designed to solve [insert problem] for [target users].
